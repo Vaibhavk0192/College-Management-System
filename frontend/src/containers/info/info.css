@@ -1,0 +1,77 @@
+.app__info-box {
+    display: flex;
+    flex-direction: row;
+}
+
+.app__info-right {
+    height: 100vh;
+    background-color: #F2F2F2;
+    flex-direction: column;
+    align-items: center;
+    padding: 5rem 0rem;
+    display: flex;
+    flex: 0.7;
+}
+
+.app__info-left {
+    padding-top: 2rem;
+    flex: 2;
+}
+
+.app__info-avatar {
+    height: 10rem;
+    background-color: black;
+    width: 10rem;
+    border-radius: 200px;
+}
+
+.app__info-name {
+    margin-top: 2rem;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+.app__info-mail {
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
+    color: #726B6B;
+}
+
+.app__info-button {
+    background-color: black;
+    color: white;
+    margin-top: 3rem;
+    border-radius: 20px;
+    width: 12rem;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    height: 3rem;
+}
+
+.app__info-heading_box {
+    display: flex;
+    flex-direction: column;
+}
+
+.app__info-heading {
+    display: flex;
+    font-size: 36px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.app__info-subtitle {
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
+    color: #726B6B;
+}
+
+.app__info-infobox{
+    margin-top: 2rem;   
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}

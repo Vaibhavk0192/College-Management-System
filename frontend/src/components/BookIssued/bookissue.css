@@ -1,0 +1,43 @@
+.app__bookissue{
+    padding: 2rem 0;
+}
+
+.app__bookissue-box{
+    display: flex;
+    flex-direction: column;    
+    background-color: #D9D9D9;
+    flex: 1;
+    width: 100%;
+    border-radius: 10px;
+    padding: 2.5rem;
+}
+
+.app__bookissue-book_name{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 900;
+    margin-bottom: 1rem;
+}
+.app__bookissue-book_author{
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem; 
+}
+.app__bookissue-book_publication{
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+.app__bookissue-book_issue{
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+.app__bookissue-book_issue span{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}

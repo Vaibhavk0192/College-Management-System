@@ -1,0 +1,29 @@
+
+
+.app__date{
+    display: flex;
+    margin-top: 1rem;
+}
+
+.app__course-course{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.app__course-box_list{
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+    justify-items: center;
+    justify-content: center;    
+}
+.app__course-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.app__book-issued{
+    margin-top: 3rem;
+}

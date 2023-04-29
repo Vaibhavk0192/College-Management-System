@@ -1,0 +1,31 @@
+.app__padding{
+  margin: 4rem 7rem;
+}
+
+.app__pad{
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.app__p{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  margin-right: 0.7rem;
+}
+
+.app__heading{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.app__text{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+.app__text2{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 22px;
+}

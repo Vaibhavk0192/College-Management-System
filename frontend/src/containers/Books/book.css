@@ -1,0 +1,24 @@
+.app__search{
+    display: flex;
+    background-color: #FAFAFA;
+    height: 3.5rem;   
+    margin: 0 2rem;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+    width: 110rem;
+    border: 1px solid gray;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.3rem;
+    padding-left: 20px;
+    font-weight: 500;
+}
+
+.app__padding input [type=search]{
+    border: 1px solid aliceblue;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.app__search::-webkit-search-cancel-button{
+padding-right: 20px;
+}

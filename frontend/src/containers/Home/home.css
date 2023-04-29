@@ -1,0 +1,42 @@
+.app__home-welcome{
+    
+    display: flex;
+    align-items: center;
+    justify-content: first baseline;
+}
+
+.app__home-welcome_heading h1{
+    margin-top: 10px;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:400;
+
+}
+.app__home-welcome_name{
+    margin:0rem 1rem;
+    font-size: 45px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+.app__date{
+    display: flex;
+    margin-top: 1rem;
+}
+
+.app__home-course{
+    margin-top: 2rem;
+}
+
+.app__home-box_list{
+    flex-wrap: wrap;
+    display: flex;
+    align-items: flex-start;
+    justify-items: flex-start;
+
+}
+
+.app__book-issued{
+    margin-top: 5rem;
+    
+}
